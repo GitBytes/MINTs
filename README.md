@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 # Material Inventory Nuclear Tracking Simulator (MINTs)
 
 The Material Inventory Nuclear Tracking Simulator (MINTs) is a discrete event simulation software modeling the flow of material through a nuclear fuel cycle, modeling material flow down to the individual item level. The simulation currently includes functionality for pressurized heavy water reactor (PHWR) fuel cycles, light water reactor (LWR) fuel cycles, and Prismatic High-Temperature Reactor (HTR) fuel cycles.
